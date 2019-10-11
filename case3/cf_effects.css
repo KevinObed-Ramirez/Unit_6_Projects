@@ -59,6 +59,8 @@ div#cube{
    width: 400px;
    height: 400px;
    perspective: 450px;
+   margin-left: auto;
+   margin-right: auto;
 }
 div.cube_face{
    position: absolute;
